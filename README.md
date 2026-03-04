@@ -19,9 +19,12 @@ pdf-table-parser/
 │  ├─ requirements.txt
 │  └─ Dockerfile
 └─ docker-compose.yml
-Запуск локально (Windows, через .venv)
+--- 
+###Запуск локально (Windows, через .venv)
 
 Перейди в корень проекта (папку репозитория):
+
+```text
 
 cd <папка_репозитория>
 
