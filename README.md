@@ -1,5 +1,3 @@
-cd D:\Work\PythonScripts\pdf-table-parser
-
 @'
 # PDF Table Parser (pdf-table-parser)
 
